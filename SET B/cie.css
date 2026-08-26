@@ -1,0 +1,90 @@
+  <!DOCTYPE html>
+<html>
+    <head>
+  <style>
+            body{
+                margin:0;
+                font-family:Times New Roman;
+                backgorund-colour:rgb(29, 43, 168);
+                
+            }
+            header{
+                background-colour:blue;
+                colur:white;
+                padding:20px;
+                text-align:center;
+            }
+            nav a{
+                colour:white:
+                text-decoration:none;
+                margin:15px;
+            }
+            main{
+                width80%;
+                margin:30px auto;
+            }
+            h2{
+                text-align:center;
+                colour:black;
+
+                }
+                h2{
+                    text-align:center
+                    colour:blue;
+
+                }
+                .events{
+                    display:flex;
+                    gap:20px;
+                    flex-wrap:wrap;
+                    justify-content:center;
+
+
+                
+                }
+                .card{
+                    background-colour:white
+                    width:25px;
+                    padding:30px;
+                    border:1px black;
+                    
+
+                }
+                .card h3{
+                    colour:blue;
+
+                }
+                .form
+                {
+                    background-colour:white;
+                    padding:30px;
+                    max-width:400px;
+                    margin:auto;
+                    border:2px solid black;
+
+            
+            
+                }
+                input,select{
+                    width:100%;
+                    padinng:
+                    margin:
+
+                }
+                button{
+                    padding 15px 20px;
+                    colour:white;
+                    border:2px solid black;
+                    backgorund-colour:black;
+
+                }
+                footer{
+                    backgorund-colour:blue;
+                    colour:white;
+                    text-alignn:center;
+                    
+
+                }
+        </style>
+        </head>
+        </html>
